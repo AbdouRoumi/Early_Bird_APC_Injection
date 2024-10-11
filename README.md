@@ -62,7 +62,7 @@ This tool is built for educational purposes, malware analysis, and pentesting in
     ```bash
     earlybirdapc_injection.exe
     ```
-
+Or directly use Visual Studio and run it <3
 ---
 
 ## Disclaimer
